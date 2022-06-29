@@ -1,0 +1,3 @@
+[submodule "03_adminpro"]
+	path = 03_adminpro
+	url = https://github.com/Kyostenas/03_adminpro
